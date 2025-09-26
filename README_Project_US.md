@@ -210,7 +210,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](4_Project_US\images\Optimal_skils_blue.png)    
+![Most Optimal Skills for Data Analysts in the US](4_Project_US/images/Optimal_skills_Blue.png)    
 *A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US.*
 
 #### Insights:
