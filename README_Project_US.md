@@ -29,7 +29,7 @@ For my deep dive into the data analyst job market, I harnessed the power of seve
 
 This section outlines the steps taken to prepare the data for analysis, ensuring accuracy and usability.
 
-## Import & Clean Up Data
+## Import & Clean Up 
 
 I start by importing necessary libraries and loading the dataset, followed by initial data cleaning tasks to ensure data quality.
 
